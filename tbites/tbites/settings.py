@@ -27,7 +27,7 @@ SECRET_KEY = 'f$c_tun#auk63z&38q!nv+i7*vw_(s0s=o#-0zf8#v$j(mwnn5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://travellingbites.herokuapp.com/','localhost']
 
 
 # Application definition
