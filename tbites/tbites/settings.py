@@ -123,3 +123,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 django_heroku.settings(locals())
+# web gunicorn tbites.wsgi:application --log-file -
