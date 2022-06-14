@@ -1,0 +1,1 @@
+web gunicorn tbites.wsgi:application --log-file -
